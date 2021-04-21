@@ -1,0 +1,12 @@
+{
+  "name": "back-office",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:renatodamazio/back-office.git",
+  "author": "renato <dev-50dollar>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
